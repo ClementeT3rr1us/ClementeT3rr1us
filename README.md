@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clemente Joaquim!
 - 👀 I’m interested in having a contract with a startup and freelance works (I'm a web, android and desktop app developer "Php, java, javascript")
-- 🌱 I’m currently learning react + vite and kotling
+- 🌱 I’m currently learning react + vite and kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? - You can easy contact me my portfolio link. There you'll find all the ways to contact me
 - 😄 Pronouns: ...
