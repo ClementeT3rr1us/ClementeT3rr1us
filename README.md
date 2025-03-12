@@ -27,6 +27,25 @@
     <img src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000" width="32" height="32">
 
 </div> 
+<h3>Contact me</h3>
+<div style="display: flex; flex-direction: row;">
+    <a href="https://clementejoaquim.great-site.net">
+        <img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" width="32" height="32">
+    </a>
+    <a href="https://wa.me/+244921100664">
+        <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="32" height="32">
+    </a>
+    <a href="https://web.facebook.com/clementeafonsobelchior.dino?_rdc=1&_rdr">
+        <img src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" width="32" height="32">
+    </a>
+    <a href=https://www.linkedin.com/in/clemente-joaquim-14994a334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="32" height="32">
+    </a>
+    <a href="https://youtu.be/6_6GNGgx0lk">
+        <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="32" height="32">
+    </a>
+
+</div>
 </p>
 
 <h2 style="color: red;">
