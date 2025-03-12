@@ -29,7 +29,7 @@
 </div> 
 <h3>Contact me</h3>
 <div style="display: flex; flex-direction: row;">
-    <a href="https://clementejoaquim.great-site.net">
+    <a href="http://clementejoaquim.great-site.net">
         <img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" width="32" height="32">
     </a>
     <a href="https://wa.me/+244921100664">
