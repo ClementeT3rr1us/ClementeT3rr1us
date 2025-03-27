@@ -4,7 +4,7 @@
 <p>
     I’m currently learning react + vite and kotlin <br>
     I’m looking to collaborate on ... <br>
-    How to reach me? - You can easy contact me through my portfolio link. There you'll find all the ways to contact me or ( <a href="http://clementejoaquim.great-site.net/">Click here</a> )<br>
+    How to reach me? - You can easy contact me through my portfolio link. There you'll find all the ways to contact me or ( <a href="https://clementet3rr1us.github.io/">Click here</a> )<br>
   <h4>Spoken languages</h4>
 <ul>
     <li>Portuguese (Native language)</li>
