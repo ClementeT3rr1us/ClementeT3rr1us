@@ -41,7 +41,7 @@
     <a href=https://www.linkedin.com/in/clemente-joaquim-14994a334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="32" height="32">
     </a>
-    <a href="https://youtu.be/6_6GNGgx0lk">
+    <a href="https://youtu.be/6_6GNGgx0lk](https://www.youtube.com/watch?v=xT2PK7RmbV8&t=28s">
         <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="32" height="32">
     </a>
 
