@@ -32,7 +32,7 @@
     <a href="https://clementet3rr1us.github.io/">
         <img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" width="32" height="32">
     </a>
-    <a href="https://wa.me/message/UPPTRQ5XIOJYO1">
+    <a href="[https://wa.me/message/UPPTRQ5XIOJYO1](https://api.whatsapp.com/message/BO74WXVVUZUEN1?autoload=1&app_absent=0">
         <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="32" height="32">
     </a>
     <a href="https://web.facebook.com/clementeafonsobelchior.dino?_rdc=1&_rdr">
