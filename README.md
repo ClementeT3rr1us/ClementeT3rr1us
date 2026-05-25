@@ -1,33 +1,58 @@
-<h1>👋 Hi, I’m Clemente!</h1>
+# 👋 Hi, I'm Clemente
 
-<h2>👀 I’m interested in having a contract with a startup and freelance works (I'm a web, android and desktop apps developer "Php, java, javascript")</h2>
-<p>
-    I’m currently learning react + vite and kotlin <br>
-    I’m looking to collaborate on ... <br>
-    How to reach me? - You can easy contact me through my portfolio link. There you'll find all the ways to contact me or ( <a href="https://clementet3rr1us.github.io/">Click here</a> )<br>
-  <h4>Spoken languages</h4>
-<ul>
-    <li>Portuguese (Native language)</li>
-    <li>English 86%</li>
-    <li>Spanish 65%</li>
-</ul>
-<br>
+💻 Full Stack Developer focused on Web, Desktop, and Android applications.
 
-<h3>My skills</h3>
-<div style="display: flex; flex-direction: row;">
-    <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" width="32" height="32">
-    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="32" height="32">
-    <img src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" width="32" height="32">
-    <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="32" height="32">
-    <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="32" height="32">
-    <img src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000" width="32" height="32">
-    <img src="https://img.icons8.com/?size=100&id=YWDsCjL0c2qv&format=png&color=000000" width="32" height="32">
-    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="32" height="32">
-    <img src="https://img.icons8.com/?size=100&id=BZz399uT6eo0&format=png&color=000000" width="32" height="32">
-    <img src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000" width="32" height="32">
+I build management systems, service platforms, automation tools, and business software using technologies like PHP, Java, JavaScript, React, and Android.
 
-</div> 
-<h3>Contact me</h3>
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on management systems and startup projects
+- 🌱 Learning React + Vite and Kotlin
+- 💡 Interested in SaaS, automotive software, business systems, and service platforms
+- 🤝 Open for freelance projects and startup collaborations
+- 🌍 Based in Angola
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- PHP (PDO)
+- MySQL
+- Firebird
+- REST APIs
+
+### Frontend
+- React
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+
+### Desktop & Mobile
+- Java
+- JavaFX
+- Android (Java & Kotlin)
+
+---
+
+## 📌 Featured Projects
+
+### B-Art OS Pro
+Management system focused on workshops, auto parts stores, and technical services.
+
+### Delivery & Service Platform
+Web + Android platform for service requests and deliveries.
+
+### E-commerce SaaS
+Customizable e-commerce platform with dynamic branding.
+
+---
+
+## 🌐 Portfolio & Contact
+
 <div style="display: flex; flex-direction: row;">
     <a href="https://clementet3rr1us.github.io/">
         <img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" width="32" height="32">
@@ -46,13 +71,17 @@
     </a>
 
 </div>
-</p>
 
-<h2 style="color: red;">
-    Fun fact: <b> I RARELY USE MY GITHUB. CONTACT ME TO HAVE MORE INFORMATION ABOUT MY SKILLS AND PROJECTS. I'M ALWAYS AVAILABLE TO DO THAT<b>
-</h2>
+---
 
-<!---
-ClementeT3rr1us/ClementeT3rr1us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌎 Languages
+
+- Portuguese — Native
+- English — Intermediate
+- Spanish — Basic/Intermediate
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building real-world business software and transforming ideas into complete systems.
