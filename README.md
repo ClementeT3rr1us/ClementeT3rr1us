@@ -1,87 +1,171 @@
+<div align="center">
+
 # 👋 Hi, I'm Clemente
 
-💻 Full Stack Developer focused on Web, Desktop, and Android applications.
+### 💻 Full Stack Developer · Business Software · SaaS
 
-I build management systems, service platforms, automation tools, and business software using technologies like PHP, Java, JavaScript, React, and Android.
+**I build software that turns real-world business problems into practical digital solutions.**
 
----
+Web • Desktop • Android • APIs • Business Systems
 
-## 🚀 About Me
+<br>
 
-- 🔭 Currently working on management systems and startup projects
-- 🌱 Learning React + Vite and Kotlin
-- 💡 Interested in SaaS, automotive software, business systems, and service platforms
-- 🤝 Open for freelance projects and startup collaborations
-- 🌍 Based in Angola
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-- PHP (PDO)
-- MySQL
-- Firebird
-- REST APIs
-
-### Frontend
-- React
-- JavaScript
-- HTML
-- CSS
-- Bootstrap
-
-### Desktop & Mobile
-- Java
-- JavaFX
-- Android (Java & Kotlin)
-
----
-
-## 📌 Featured Projects
-
-### B-Art OS Pro
-Management system focused on workshops, auto parts stores, and technical services.
-
-### Delivery & Service Platform
-Web + Android platform for service requests and deliveries.
-
-### E-commerce SaaS
-Customizable e-commerce platform with dynamic branding.
-
----
-
-## 🌐 Portfolio & Contact
-
-<div style="display: flex; flex-direction: row;">
-    <a href="https://clementet3rr1us.github.io/">
-        <img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" width="32" height="32">
-    </a>
-    <a href="https://wa.me/message/BO74WXVVUZUEN1">
-        <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="32" height="32">
-    </a>
-    <a href="https://web.facebook.com/clementeafonsobelchior.dino?_rdc=1&_rdr">
-        <img src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" width="32" height="32">
-    </a>
-    <a href=https://www.linkedin.com/in/clemente-joaquim-14994a334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-        <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="32" height="32">
-    </a>
-    <a href="https://youtu.be/6_6GNGgx0lk](https://www.youtube.com/watch?v=xT2PK7RmbV8&t=28s">
-        <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="32" height="32">
-    </a>
+<a href="https://clementet3rr1us.github.io/">🌐 Portfolio</a>
+  •   <a href="https://www.linkedin.com/in/clemente-joaquim-14994a334/">💼 LinkedIn</a>
+  •   <a href="https://wa.me/message/BO74WXVVUZUEN1">💬 WhatsApp</a>
+  •   <a href="https://www.youtube.com/watch?v=xT2PK7RmbV8">▶️ YouTube</a>
 
 </div>
 
 ---
 
-## 🌎 Languages
+## 🚀 About Me
 
-- Portuguese — Native
-- English — Intermediate
-- Spanish — Basic/Intermediate
+I'm a **Full Stack Developer from Angola** focused on building software for real-world businesses.
+
+I work across the entire development process — from **idea and architecture to database design, APIs, interfaces, and deployment**.
+
+My main interests are:
+
+* 🏢 Business & Management Systems
+* 📊 ERP & POS Solutions
+* 🌐 SaaS Platforms
+* 🛒 E-commerce
+* 🚚 Service & Delivery Platforms
+* ⚙️ Business Automation
+* 📱 Android Applications
+
+I'm particularly interested in creating software that is **practical, scalable, and adapted to the needs of businesses**.
 
 ---
 
-## ⚡ Fun Fact
+## 🛠️ Technologies
 
-I enjoy building real-world business software and transforming ideas into complete systems.
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,fastapi,mysql,sqlite" />
+</p>
+
+### Desktop & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 📌 What I Build
+
+### 🏢 Business Management Software
+
+Management solutions for businesses such as:
+
+**Retail · Restaurants · Pharmacies · Workshops · Service Companies**
+
+Typical functionality includes:
+
+* Sales & POS
+* Inventory
+* Customers & Suppliers
+* Financial management
+* Reports & dashboards
+* User permissions
+* Multi-branch operations
+* Offline-first workflows
+
+---
+
+### 🌐 SaaS & Web Platforms
+
+I develop web platforms designed around specific business models and workflows.
+
+Examples include:
+
+* E-commerce platforms
+* Service marketplaces
+* Delivery systems
+* Business portals
+* Management dashboards
+* Custom SaaS solutions
+
+---
+
+### 📱 Android Applications
+
+Native Android applications using **Java and Kotlin**, including applications that communicate with backend APIs and business management systems.
+
+---
+
+## 💡 Development Approach
+
+I like working on projects where software needs to solve an **actual business problem**, rather than simply building technology for its own sake.
+
+```text
+Problem
+   ↓
+Idea
+   ↓
+Architecture
+   ↓
+Database & API
+   ↓
+Interface
+   ↓
+Testing
+   ↓
+Working Product
+```
+
+My goal is simple:
+
+> **Build useful software that people can actually use.**
+
+---
+
+## 🔭 Currently
+
+* 🚀 Building business management systems and startup projects
+* 🌱 Deepening my knowledge of **React, Vite, Kotlin and backend architecture**
+* 🧠 Exploring **SaaS, ERP, automation and scalable systems**
+* 🤝 Open to freelance opportunities, partnerships and startup collaborations
+
+---
+
+## 🌎 Languages
+
+| Language        | Level                |
+| --------------- | -------------------- |
+| 🇵🇹 Portuguese | Native               |
+| 🇬🇧 English    | Advanced             |
+| 🇪🇸 Spanish    | Basic / Intermediate |
+
+---
+
+## ⚡ A Little More About Me
+
+I enjoy taking an idea that exists only on paper and turning it into a **complete, functional system**.
+
+Whether it's a management platform, an Android application, an ERP, or a SaaS product, I like understanding the problem first and then building the technology around it.
+
+---
+
+<div align="center">
+
+### 🚀 From idea to working software.
+
+**Clemente Belchior · Angola 🇦🇴**
+
+</div>
