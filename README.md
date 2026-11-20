@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# CLEMENTE BELCHIOR
+# CLEMENTE
 
 ### Software Developer | Business Solutions & Digital Products
 
@@ -191,6 +191,6 @@ I'm open to professional opportunities, freelance projects, technical collaborat
 
 <sub>Designed around problems. Built with technology.</sub>
 
-**Clemente Belchior · Angola**
+**Clemente · Angola**
 
 </div>
