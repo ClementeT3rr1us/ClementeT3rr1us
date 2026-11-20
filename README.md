@@ -1,65 +1,79 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Clemente
+# CLEMENTE BELCHIOR
 
-### 💻 Full Stack Developer · Business Software · SaaS
+### Software Developer | Business Solutions & Digital Products
 
-**I build software that turns real-world business problems into practical digital solutions.**
-
-Web • Desktop • Android • APIs • Business Systems
+Building software around real business needs.
 
 <br>
 
-<a href="https://clementet3rr1us.github.io/">🌐 Portfolio</a>
-  •   <a href="https://www.linkedin.com/in/clemente-joaquim-14994a334/">💼 LinkedIn</a>
-  •   <a href="https://wa.me/message/BO74WXVVUZUEN1">💬 WhatsApp</a>
-  •   <a href="https://www.youtube.com/watch?v=xT2PK7RmbV8">▶️ YouTube</a>
+<a href="https://clementet3rr1us.github.io/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-216FDB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/clemente-joaquim-14994a334/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/message/BO74WXVVUZUEN1">
+  <img src="https://img.shields.io/badge/WHATSAPP-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/watch?v=xT2PK7RmbV8">
+  <img src="https://img.shields.io/badge/YOUTUBE-Watch-FF0033?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Location-Angola-216FDB?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Business%20Software-216FDB?style=flat-square" />
+<img src="https://img.shields.io/badge/Development-Full%20Stack-216FDB?style=flat-square" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a **Full Stack Developer from Angola** focused on building software for real-world businesses.
+I'm a software developer from Angola with an interest in building practical digital solutions for businesses.
 
-I work across the entire development process — from **idea and architecture to database design, APIs, interfaces, and deployment**.
+My work involves developing applications across different environments, combining interface development, backend logic, database design and API integration.
 
-My main interests are:
+Rather than focusing exclusively on technologies, I enjoy understanding how businesses operate and translating their processes into functional software.
 
-* 🏢 Business & Management Systems
-* 📊 ERP & POS Solutions
-* 🌐 SaaS Platforms
-* 🛒 E-commerce
-* 🚚 Service & Delivery Platforms
-* ⚙️ Business Automation
-* 📱 Android Applications
+**Areas of interest**
 
-I'm particularly interested in creating software that is **practical, scalable, and adapted to the needs of businesses**.
+- Business Management Systems
+- ERP & Point of Sale Solutions
+- SaaS Applications
+- Business Process Automation
+- E-commerce & Digital Platforms
+- Desktop and Android Applications
 
 ---
 
-## 🛠️ Technologies
+## Technical Stack
 
-### Frontend
+My development experience spans web, desktop and mobile environments.
+
+**Web Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind" />
 </p>
 
-### Backend & Databases
+**Backend & Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,fastapi,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,mysql,postgres,sqlite" />
 </p>
 
-### Desktop & Mobile
+**Desktop & Mobile Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio" />
 </p>
 
-### Tools
+**Development Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
@@ -67,105 +81,116 @@ I'm particularly interested in creating software that is **practical, scalable, 
 
 ---
 
-## 📌 What I Build
+## What I Develop
 
-### 🏢 Business Management Software
+### Business Software
 
-Management solutions for businesses such as:
+Custom applications designed to support operational and administrative processes.
 
-**Retail · Restaurants · Pharmacies · Workshops · Service Companies**
+Examples of business domains:
 
-Typical functionality includes:
+| Industry | Software Applications |
+|:--|:--|
+| Retail | Sales, POS & Inventory |
+| Restaurants | Orders & Management |
+| Pharmacies | Stock & Sales Management |
+| Service Companies | Operations & Customer Management |
+| General Business | ERP & Administrative Systems |
 
-* Sales & POS
-* Inventory
-* Customers & Suppliers
-* Financial management
-* Reports & dashboards
-* User permissions
-* Multi-branch operations
-* Offline-first workflows
+### Web Applications & SaaS
 
----
+Web-based products built around specific business models, workflows and operational requirements.
 
-### 🌐 SaaS & Web Platforms
+- Business portals and management dashboards
+- E-commerce platforms
+- Service and delivery platforms
+- Multi-branch management systems
+- Custom SaaS applications
 
-I develop web platforms designed around specific business models and workflows.
+### Desktop & Android Applications
 
-Examples include:
-
-* E-commerce platforms
-* Service marketplaces
-* Delivery systems
-* Business portals
-* Management dashboards
-* Custom SaaS solutions
+Applications developed for desktop and mobile environments, including solutions that integrate with backend services and databases.
 
 ---
 
-### 📱 Android Applications
+## Development Philosophy
 
-Native Android applications using **Java and Kotlin**, including applications that communicate with backend APIs and business management systems.
+I approach software development as a problem-solving process.
 
----
-
-## 💡 Development Approach
-
-I like working on projects where software needs to solve an **actual business problem**, rather than simply building technology for its own sake.
+My focus is on understanding the requirements, modelling the information, designing the system and implementing a solution that makes sense in its intended environment.
 
 ```text
-Problem
-   ↓
-Idea
-   ↓
-Architecture
-   ↓
-Database & API
-   ↓
-Interface
-   ↓
-Testing
-   ↓
-Working Product
+UNDERSTAND
+    |
+    v
+REQUIREMENTS & ANALYSIS
+    |
+    v
+SYSTEM DESIGN
+    |
+    v
+DATABASE & BACKEND
+    |
+    v
+APPLICATION DEVELOPMENT
+    |
+    v
+TESTING & IMPROVEMENT
+    |
+    v
+WORKING SOFTWARE
 ```
 
-My goal is simple:
+Good software is not simply software that works.
 
-> **Build useful software that people can actually use.**
-
----
-
-## 🔭 Currently
-
-* 🚀 Building business management systems and startup projects
-* 🌱 Deepening my knowledge of **React, Vite, Kotlin and backend architecture**
-* 🧠 Exploring **SaaS, ERP, automation and scalable systems**
-* 🤝 Open to freelance opportunities, partnerships and startup collaborations
+It should solve the right problem, handle information reliably and make everyday operations easier.
 
 ---
 
-## 🌎 Languages
+## Current Focus
 
-| Language        | Level                |
-| --------------- | -------------------- |
-| 🇵🇹 Portuguese | Native               |
-| 🇬🇧 English    | Advanced             |
-| 🇪🇸 Spanish    | Basic / Intermediate |
+- Developing business management solutions through Blue Art.
+- Deepening my knowledge of React and modern frontend development.
+- Improving backend architecture and API development with PHP and Laravel.
+- Exploring SaaS business models and software scalability.
+- Expanding my knowledge of automation and technology applied to industry.
+
+---
+
+## Languages
+
+| Language | Proficiency |
+|:--|:--|
+| Portuguese | Native |
+| English | Advanced |
+| Spanish | Basic / Intermediate |
 
 ---
 
-## ⚡ A Little More About Me
+## Let's Connect
 
-I enjoy taking an idea that exists only on paper and turning it into a **complete, functional system**.
-
-Whether it's a management platform, an Android application, an ERP, or a SaaS product, I like understanding the problem first and then building the technology around it.
-
----
+I'm open to professional opportunities, freelance projects, technical collaborations and conversations about software development.
 
 <div align="center">
 
-### 🚀 From idea to working software.
+### Have a project or an interesting problem to solve?
 
-**Clemente Belchior · Angola 🇦🇴**
+<br>
+
+<a href="https://clementet3rr1us.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-216FDB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/clemente-joaquim-14994a334/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/message/BO74WXVVUZUEN1">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>Designed around problems. Built with technology.</sub>
+
+**Clemente Belchior · Angola**
 
 </div>
